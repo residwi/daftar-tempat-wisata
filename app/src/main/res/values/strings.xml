@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tugas Submission</string>
+    <string name="tours_name">Nama Tempat</string>
+    <string name="tours_detail">Details</string>
+</resources>
